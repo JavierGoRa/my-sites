@@ -1,0 +1,24 @@
+<ion-header>
+
+  <ion-navbar>
+    <ion-title>
+        Mapa
+    </ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+
+<ion-content padding>
+  
+  <ion-fab right bottom>
+    <button ion-fab (tap)="nuevoSitio()">
+      <ion-icon name="pin"></ion-icon>
+      <ion-icon name="add"></ion-icon>
+    </button>
+  </ion-fab>
+
+  <ion-content>
+    <div id="map"></div>
+  </ion-content>
+</ion-content>
