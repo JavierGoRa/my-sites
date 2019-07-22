@@ -1,6 +1,7 @@
 # *Look at this place* project
 
-  This project no longer works.
+  This project already doesn't work
+.
 
 ## Introduction
 
